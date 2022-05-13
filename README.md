@@ -1,9 +1,9 @@
-# sobre mim
+# about me
 - 👋 Hi, my name is @Emmygon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in drawin
+- 🌱 I’m currently learning programming
+- 💞️ I’m looking to collaborate on in studying
+- 📫 How to reach me my email emily.goncalves19@escola.pr.gov.br
 
 <!---
 Emmygon/Emmygon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
