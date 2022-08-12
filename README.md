@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on in studying
 - 📫 How to reach me my email emily.goncalves19@escola.pr.gov.br
 - 🪐 goodbye
+- 🐖
 
 <!---
 Emmygon/Emmygon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
